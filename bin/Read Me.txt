@@ -1,0 +1,5 @@
+W - Move up
+S - Move down
+A - Move left
+D - Move right
+Space - Shoot
